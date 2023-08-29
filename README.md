@@ -8,6 +8,12 @@
 * Estrutura: MVC
 
 * OOP
+  
+* MongoDB
+
+* Token
+
+* Criptografia
  
 ## 🚀 Sobre a API 
 
